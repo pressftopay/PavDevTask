@@ -12,3 +12,5 @@
 3)org.okhttpclient для exchangeRateAPI что бы получить ответ в виде json'a
 
 ссылка на бота @currT_Bot
+
+делал Zhassulan Yessenov/Жасулан Есенов
